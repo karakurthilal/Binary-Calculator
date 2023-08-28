@@ -1,0 +1,83 @@
+body{
+    width: 33%;
+    margin: auto;
+    margin-top: 5px;
+}
+#res{
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
+#btn0{
+    font-size: 18px;
+    margin: 0px;
+    width: 25%;
+    height: 36px;
+    background-color: lightgreen;
+    color: brown;
+    float: left;
+}
+#btn1{
+    font-size: 18px;
+    margin: 0px;
+    width: 25%;
+    height: 36px;
+    background-color: lightgreen;
+    color: brown;
+    float: left;
+}
+#btnClr{
+    font-size: 18px;
+    margin: 0px;
+    width: 25%;
+    height: 36px;
+    background-color: darkgreen;
+    color: white;
+    float: left;
+}
+#btnEql{
+    font-size: 18px;
+    margin: 0px;
+    width: 25%;
+    height: 36px;
+    background-color: darkgreen;
+    color: white;
+    float: left;
+}
+#btnSum{
+    font-size: 18px;
+    margin: 0px;
+    width: 25%;
+    height: 36px;
+    color: red;
+    float: left;
+    background-color: black;
+}
+#btnSub{
+    font-size: 18px;
+    margin: 0px;
+    width: 25%;
+    height: 36px;
+    color: red;
+    float: left;
+    background-color: black;
+}
+#btnMul{
+    font-size: 18px;
+    margin: 0px;
+    width: 25%;
+    height: 36px;
+    color: red;
+    float: left;
+    background-color: black;
+}
+#btnDiv{
+    font-size: 18px;
+    margin: 0px;
+    width: 25%;
+    height: 36px;
+    color: red;
+    float: left;
+    background-color: black;
+}
